@@ -1,1 +1,1 @@
-"Informacion sobre el registro de usuarios" 
+"Seccion de consulta de rutas" 
